@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_7">7dp</dimen>
+    <dimen name="base_16">16dp</dimen>
+    <dimen name="base_28">28dp</dimen>
+    <dimen name="incoming_avatar_heigth">88dp</dimen>
+    <dimen name="incoming_avatar_img_heigth">72dp</dimen>
+    <dimen name="base_8">8dp</dimen>
+    <dimen name="base_18">18dp</dimen>
+</resources>
